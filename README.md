@@ -11,7 +11,7 @@ finally, generate histograms from the processed images and store the resulting h
 
 ## Crop Yield Data 
 
-The dataset has been taken from Brain Hung's [Crop Yield Prediction] implemented for Google Colab with 🐍 pyton and 🌕 Jupyter. 
+The dataset has been taken from Brain's Crop Yield Prediction implemented for Google Colab with 🐍 pyton and 🌕 Jupyter. 
 
 ## Dataset
 
